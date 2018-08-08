@@ -1,0 +1,1841 @@
+sample.py  not selected  2 of 2
+	Line 557: 	def __init__(self, obj, appendText=""):
+
+Search "appendText" (23 hits in 10 files)
+
+Search "appendText" (23 hits in 10 files)
+
+sampleLogger.txt - Notepad
+Text Editor  edit  multi line
+C:\WebAccessibility\nvda\source\speechViewer.py - Notepad++  row 1  column 3
+
+		return [repr( (i.width, i.height) ) for i in displays]
+
+		displays = ( wx.Display(i).GetGeometry().GetSize() for i in xrange(wx.Display.GetCount()) )
+
+	def getAttachedDisplaySizesAsStringArray(self):
+
+English (United States) - US
+log  window
+Items View  list
+sample.py  not selected  2 of 3
+sampleLogger.txt  3 of 3
+sampleLogger.txt - Notepad
+Text Editor  edit  multi line
+sample.py  not selected  2 of 2
+
+Search "appendText" (23 hits in 10 files)
+
+Search "appendText" (23 hits in 10 files)
+
+		return [repr( (i.width, i.height) ) for i in displays]
+
+		displays = ( wx.Display(i).GetGeometry().GetSize() for i in xrange(wx.Display.GetCount()) )
+
+	def getAttachedDisplaySizesAsStringArray(self):
+
+US
+log  window
+Items View  list
+sampleLogger.txt  3 of 3
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows - Google Chrome  row 1  column 1
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows - Google Chrome
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows - Google Chrome
+Find  edit  row 1  column 1
+selected compile
+i
+selection removed
+n
+v
+i
+s
+i
+i
+s
+i
+v
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows  document
+link
+Skip to content
+main landmark 
+ table  with 25 rows and 4 columns 
+row 12  column 3
+out of table
+banner landmark 
+link
+Homepage
+linked
+Search or jump to search landmark 
+Search or jump to
+navigation landmark 
+link
+Pull requests you created
+link
+Issues you created
+link
+Marketplace
+link
+Explore
+list with 3 items
+link
+You have no unread notifications
+navigation landmark 
+Issues you created
+link
+link
+Marketplace
+link
+Explore
+list with 3 items
+link
+You have no unread notifications
+button  collapsed
+button  collapsed
+View profile and more
+out of list
+button
+Sign out
+main landmark 
+list with 3 items
+menu button  subMenu
+Toggle repository notifications menu
+link
+123 users are watching this repository
+button
+Star this repository
+link
+501 users starred this repository
+button
+Fork your own copy of nvaccess/nvda to your account
+link
+210 users forked this repository
+out of list
+heading  level 1
+link
+nvaccess
+/
+visited  link
+nvda
+navigation landmark 
+visited  link
+Code
+visited  link
+Issues2,242
+link
+Pull requests64
+link
+ Projects 0
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows - Google Chrome
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows - Google Chrome
+saucelabs support for screenreaders - Google Search - Google Chrome  row 1  column 1
+Address and search bar  edit  has auto complete  Ctrl+L  row 1  column 1
+python get 
+saucelabs support for screenreaders - Google Search - Google Chrome
+python get  selected
+o
+selection removed
+p
+e
+n
+ 
+n
+v
+d
+a
+ 
+i
+n
+ 
+i
+n
+v
+i
+s
+i
+b
+l
+e
+ 
+m
+o
+d
+e
+selected https://www.google.fr/search?q=open+nvda+in+invisible+mode&rlz=1C1GCEB_enUS798US798&oq=open+nvda+in+invisible+mode&aqs=chrome..69i57.6207j0j9&sourceid=chrome&ie=UTF-8
+open nvda in invisible mode - Google Search
+button  collapsed
+Google apps
+menu button  subMenu
+button
+Google Account: Saran Prasad Ambikapathy (ambikapathy.s@husky.neu.edu)
+search landmark 
+heading  level 1
+link
+graphic
+Google
+button
+Google Search
+Search  edit
+open nvda in invisible mode
+navigation landmark 
+All
+link
+News
+link
+Videos
+link
+Images
+link
+Shopping
+menu button  subMenu
+More
+link
+ges
+link
+Shopping
+menu button  subMenu
+More
+menu button  subMenu
+Settings
+button
+Tools
+open nvda in invisible mode - Google Search - Google Chrome
+open nvda in invisible mode - Google Search - Google Chrome
+More
+open nvda in invisible mode - Google Search - Google Chrome
+open nvda in invisible mode - Google Search - Google Chrome
+main landmark 
+clickable
+Setting focus to an element: NVDA doesn't announce it, when ... - GitHub
+link
+heading  level 3
+open nvda in invisible mode - Google Search
+main landmark 
+heading  level 3
+visited  link
+esn't announce it, when ... - GitHub
+https://github.com/nvaccess/nvda/issues/5825
+menu button  subMenu
+Result options
+5
+menu button  subMenu
+Result options
+open nvda in invisible mode - Google Search - Google Chrome
+open nvda in invisible mode - Google Search - Google Chrome
+Address and search bar  edit  has auto complete  Ctrl+L
+https://www.google.fr/search?q=open+nvda+in+invisible+mode&rlz=1C1GCEB_enUS798US798&oq=open+nvda+in+invisible+mode&aqs=chrome..69i57.6207j0j9&sourceid=chrome&ie=UTF-8
+k
+han.github.io/tota11y/ selected instead
+i
+selection removed
+c
+k
+ 
+o
+f
+f
+ 
+p
+y
+t
+h
+o
+n
+ 
+s
+c
+r
+p
+t
+t
+p
+i
+p
+t
+ 
+u
+s
+i
+n
+g
+ 
+j
+a
+v
+a
+selected https://www.google.fr/search?q=kick+off+python+script+using+java&rlz=1C1GCEB_enUS798US798&oq=kick+off+python+script+using+java&aqs=chrome..69i57j0.11409j0j9&sourceid=chrome&ie=UTF-8
+kick off python script using java - Google Search
+button  collapsed
+Google apps
+menu button  subMenu
+button
+Google Account: Saran Prasad Ambikapathy (ambikapathy.s@husky.neu.edu)
+search landmark 
+heading  level 1
+link
+graphic
+Google
+button
+Google Search
+Search  edit
+kick off python script using java
+navigation landmark 
+All
+link
+Videos
+link
+News
+link
+Images
+link
+Shopping
+menu button  subMenu
+More
+menu button  subMenu
+Settings
+button
+Tools
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+main landmark 
+clickable
+How to call Python script from Java - Quora
+link
+heading  level 3
+How to call Python script from Java - Quora
+link
+www.quora.com
+Search for questions, people, and topics  edit  multi line
+out of edit
+link
+Ask New Question
+Sign In
+Quora uses cookies to improve your experience. 
+link
+Read more
+link
+link
+Android (python)
+link
+Python Vs. 
+Java
+link
+Python (programming language)
+link
+Java (programming language)
+heading  level 1
+How do I call Python script from Java?
+Ad by DigitalOcean
+6 Answers
+How to call Python script from Java - Quora - Google Chrome
+BufferedReader in = new BufferedReader(new InputStreamReader(p.getInputStream()));
+How to call Python script from Java - Quora - Google Chrome
+}
+How to call Python script from Java - Quora - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search
+ program, this ... javac test2.
+Python
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+navigation landmark 
+Tools
+button
+Any time
+menu button  subMenu
+kick off python script using java - Google Search - Google Chrome
+All results
+menu button  subMenu
+clickable
+navigation landmark 
+list with 2 items
+All results
+Call and receive output from Python script in Java? - Stack Overflow
+Any time
+menu button  subMenu
+list with 7 items
+Any time
+Call and receive output from Python script in Java? - Stack Overflow
+8 answers
+, and receive the .... You can include the Jython library 
+kick off python script using java - Google Search - Google Chrome
+Past year
+link
+kick off python script using java - Google Search
+button  collapsed
+Google apps
+menu button  subMenu
+0 Google notifications
+kick off python script using java - Google Search - Google Chrome
+How to run a Python script onclick event from JavaScript - Quora
+main landmark 
+clickable
+How to run a Python script onclick event from JavaScript - Quora
+link
+heading  level 3
+How to run a Python script onclick event from JavaScript - Quora
+How to run a Python script onclick event from JavaScript - Quora - Google Chrome
+How to run a Python script onclick event from JavaScript - Quora - Google Chrome
+10
+How to run a Python script onclick event from JavaScript - Quora - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search - Google Chrome
+kick off python script using java - Google Search
+kick off python script using java - Google Search - Google Chrome
+https://stackoverflow.com/questions/.../jar-or-exe-file-from-sikuli-python-script
+ and uses Jython. ... so you can just make that method be your main 
+jar or exe file from Sikuli python script - Stack Overflow
+Search  combo box  has auto complete  editable  Search
+selected kick of
+f
+f pytho unselected
+ 
+e
+x
+e
+c
+u
+t
+e
+python 
+script 
+using 
+using  selected
+execute python script using java - Google Search
+button  collapsed
+Google apps
+menu button  subMenu
+button
+Google Account: Saran Prasad Ambikapathy (ambikapathy.s@husky.neu.edu)
+search landmark 
+heading  level 1
+link
+graphic
+Google
+button
+Google Search
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+main landmark 
+clickable
+Execute python script with java function - Stack Overflow
+link
+heading  level 3
+execute python script using java - Google Search - Google Chrome
+https://stackoverflow.com/questions/45651126/execute-python-script-with-java-function - Google Chrome
+Execute python script with java function - Stack Overflow - Google Chrome
+Execute python script with java function - Stack Overflow
+clickable
+banner landmark 
+link
+Stack Overflow
+search landmark 
+import org.python.util.PythonInterpreter;
+Execute python script with java function - Stack Overflow - Google Chrome
+execute python script using java - Google Search
+main landmark 
+com/questions/.../execute-python-script-with-java-function
+menu button  subMenu
+Result options
+1 answer
+Aug 12, 2017 - You can use Jython library to run python scripts inside java code. 
+For example: 
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+Running applications
+Command Prompt - 2 running windows
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+log  window
+Items View  list
+sampleLogger.txt  3 of 3
+sampleLogger.txt - Notepad
+Text Editor  edit  multi line
+sample.py  not selected  2 of 2
+
+	def doDisplaysMatchConfig(self):
+
+log
+		configSizes = config.conf["speechViewer"]["displays"]
+
+	def doDisplaysMatchConfig(self):
+
+		configSizes = config.conf["speechViewer"]["displays"]
+
+configSizes)))
+
+	def getAttachedDisplaySizesAsStringArray(self):
+
+execute python script using java - Google Search - Google Chrome
+log  window
+Items View  list
+sampleLogger.txt  3 of 3
+Bkp_sampleLogger.txt  1 of 3
+sample.py  2 of 3
+sampleLogger.txt  not selected  1 of 1
+selected
+sampleLogger.txt - Notepad
+execute python script using java - Google Search - Google Chrome
+Text Editor  edit  multi line
+sample.py  not selected  2 of 2
+
+Caption
+Tab
+		config.conf["speechViewer"]["y"] = position.y
+
+		config.conf["speechViewer"]["x"] = position.x
+
+		config.conf["speechViewer"]["y"] = position.y
+
+Search "appendText" (23 hits in 10 files)
+
+		displays = ( wx.Display(i).GetGeometry().GetSize() for i in xrange(wx.Display.GetCount()) )
+
+	def getAttachedDisplaySizesAsStringArray(self):
+
+		displays = ( wx.Display(i).GetGeometry().GetSize() for i in xrange(wx.Display.GetCount()) )
+
+	def getAttachedDisplaySizesAsStringArray(self):
+
+log  window
+Items View  list
+sampleLogger.txt  1 of 1
+execute python script using java - Google Search - Google Chrome
+not selected
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+Items View
+Search "appendText" (23 hits in 10 files)
+
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+Secure Desktop
+log  window
+Items View  list
+sampleLogger.txt  not selected  1 of 1
+execute python script using java - Google Search - Google Chrome
+sampleLogger.txt  not selected  1 of 1
+Running applications
+pythonw.exe - 1 running window
+Command Prompt - 2 running windows
+Cisco Jabber - 2 running windows
+Task Switcher  list
+execute python script using java - Google Search - Google Chrome
+Cisco Jabber
+Conversations
+20200  window
+execute python script using java - Google Search - Google Chrome
+edit  multi line
+blank
+T
+h
+e
+ 
+N
+V
+D
+A
+ 
+f
+i
+l
+e
+ 
+i
+s
+ 
+t
+t
+ 
+s
+i
+ 
+e
+l
+i
+f
+c
+i
+d
+d
+i
+o
+d
+e
+ 
+i
+s
+ 
+t
+w
+e
+a
+b
+b
+k
+a
+b
+l
+e
+.
+ 
+I
+ 
+ 
+I
+F
+o
+u
+n
+d
+ 
+t
+o
+ 
+ 
+o
+t
+a
+ 
+ 
+a
+ 
+d
+n
+u
+o
+F
+A
+b
+l
+e
+ 
+t
+o
+ 
+s
+a
+v
+e
+t
+h
+h
+t
+ 
+t
+h
+e
+ 
+S
+p
+e
+e
+c
+h
+ 
+v
+i
+e
+w
+e
+r
+ 
+l
+o
+g
+.
+.
+log
+viewer 
+Speech 
+viewer 
+i
+V
+log
+.
+ 
+i
+n
+o
+t
+t
+o
+t
+o
+ 
+a
+ 
+f
+i
+l
+e
+file
+a 
+into 
+log 
+Viewer 
+Speech 
+the 
+save 
+to 
+Able 
+. 
+tweakable
+is 
+code 
+s
+o
+u
+r
+c
+e
+ 
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+Y
+e
+a
+h
+.
+.
+ 
+L
+L
+L
+e
+t
+ 
+m
+e
+ 
+me  selected
+Let  selected
+I
+ 
+l
+l
+ 
+b
+e
+ 
+c
+h
+e
+c
+k
+i
+n
+g
+ 
+o
+n
+ 
+t
+h
+e
+ 
+J
+a
+v
+a
+/
+J
+a
+v
+a
+s
+c
+r
+i
+p
+t
+ 
+s
+u
+p
+p
+o
+r
+r
+p
+u
+ 
+ 
+ 
+ 
+s
+u
+p
+p
+o
+r
+t
+ 
+f
+o
+r
+ 
+N
+V
+D
+A
+ 
+a
+g
+a
+i
+n
+s
+t
+t
+t
+ 
+against  selected
+w
+i
+t
+t
+i
+w
+ 
+.
+ 
+. 
+NVDA
+for 
+support 
+Javascript 
+/
+Java
+the 
+on 
+checking 
+be 
+checking 
+on 
+the 
+Java
+/
+Javascript 
+support 
+for 
+NVDA
+. 
+
+ 
+.
+ 
+n
+o
+w
+.
+.
+ 
+.. 
+now
+NVDA 
+for 
+support 
+Javascript 
+/
+Java
+the 
+on 
+checking 
+be 
+be  selected
+c
+on 
+ 
+g
+n
+i
+n
+g
+ 
+o
+on  selected
+f
+o
+r
+ 
+Java
+/
+Javascript 
+support 
+for 
+NVDA 
+now
+.. 
+now selected
+.
+ 
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome  row 1  column 1
+execute python script using java - Google Search  document
+main landmark 
+clickable
+https://stackoverflow.com/questions/.../execute-python-script-with-java-function
+menu button  subMenu
+Result options
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+20200  window
+Loading document...
+IM Renderer Page
+separator
+Thursday, June 14, 2018
+separator
+Good evening..
+4:04 PM
+graphic
+Saran AMBIKAPATHY
+graphic
+Anthony FERREIRA
+clickable
+https://amadeus.webex.com/meet/antonio.ferreiramartinezamadeus.com
+use this one
+instead
+4:04 PM
+Got it.. Thanks
+edit  multi line
+blank
+T
+h
+e
+e
+ 
+a
+r
+e
+ 
+l
+i
+b
+b
+l
+e
+r
+a
+ 
+e
+r
+e
+ 
+a
+r
+e
+ 
+l
+i
+b
+r
+a
+r
+i
+e
+s
+There are libraries selected
+
+ 
+ 
+T
+e
+r
+r
+e
+T
+A
+1
+1
+y
+ 
+ 
+y
+1
+1
+A
+A
+A
+T
+T
+ 
+a
+n
+d
+ 
+H
+t
+m
+l
+C
+o
+d
+e
+S
+n
+i
+f
+f
+e
+r
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome  row 1  column 1
+execute python script using java - Google Search  document
+https://stackoverflow.com/questions/.../execute-python-script-with-java-function
+menu button  subMenu
+Result options
+menu  subMenu  row 1  column 1
+New tab Ctrl+T  t  row 1  column 1
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search  document
+https://stackoverflow.com/questions/.../execute-python-script-with-java-function
+menu button  subMenu
+Result options
+menu  subMenu  row 1  column 1
+menu  subMenu  row 1  column 1
+116479.pdf  116479.pdf
+file:///C:/Users/sambikapathy/Downloads/116479.pdf  row 1  column 1
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+menu  subMenu  row 1  column 1
+WAI-ARIA Authoring Practices 1.1  WAI-ARIA Authoring Practices 1.1
+https://www.w3.org/TR/wai-aria-practices-1.1/#radiobutton  row 1  column 1
+GitHub - ThePacielloGroup/WebAccessibilityToolbar: Web Accessibility Toolbar for Internet Explorer  GitHub - ThePacielloGroup/WebAccessibilityToolbar: Web Accessibility Toolbar for Internet Explorer
+https://github.com/ThePacielloGroup/WebAccessibilityToolbar
+execute python script using java - Google Search - Google Chrome
+Start
+20200  window
+edit  multi line
+selected and 
+H
+ 
+,
+ 
+
+ 
+a
+n
+d
+ 
+A
+x
+e
+ 
+h
+a
+v
+ 
+ 
+e
+ 
+j
+a
+v
+a
+ 
+s
+u
+p
+p
+o
+r
+t
+.
+.
+y
+e
+a
+h
+ 
+o
+k
+.
+.
+u
+n
+d
+e
+r
+s
+t
+o
+o
+d
+.
+.
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+I
+s
+ 
+i
+t
+ 
+o
+k
+ 
+i
+f
+ 
+I
+ 
+d
+o
+u
+u
+c
+u
+m
+e
+n
+t
+ 
+s
+t
+u
+f
+f
+ 
+a
+t
+ 
+t
+h
+e
+ 
+s
+a
+m
+e
+ 
+f
+o
+o
+f
+c
+p
+p
+c
+p
+a
+g
+e
+.
+ 
+ 
+.
+page
+c
+o
+n
+f
+l
+u
+e
+n
+c
+e
+ 
+
+ 
+ 
+.
+ 
+I
+t
+ 
+m
+i
+g
+h
+t
+ 
+l
+o
+o
+k
+e
+ 
+ 
+e
+ 
+c
+l
+u
+t
+t
+e
+r
+ 
+b
+u
+t
+ 
+i
+t
+s
+ 
+c
+o
+n
+v
+e
+n
+i
+e
+n
+t
+.
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search - Google Chrome
+execute python script using java - Google Search  document
+https://stackoverflow.com/questions/.../execute-python-script-with-java-function
+menu button  subMenu
+Result options
+New Tab - Google Chrome
+Address and search bar  edit  has auto complete  Ctrl+L  row 1  column 1
+blank
+c
+l
+u
+t
+t
+e
+r
+selected https://www.google.fr/search?q=clutter&rlz=1C1GCEB_enUS798US798&oq=clutter&aqs=chrome..69i57j0l5.1052j1j7&sourceid=chrome&ie=UTF-8
+clutter - Google Search
+button  collapsed
+Google apps
+menu button  subMenu
+button
+Google Account: Saran Prasad Ambikapathy (ambikapathy.s@husky.neu.edu)
+search landmark 
+heading  level 1
+link
+graphic
+Google
+clutter - Google Search - Google Chrome
+clutter - Google Search - Google Chrome
+NVDA 2018.2.1 Developer Guide
+heading  level 1
+NVDA 2018.2.1 Developer Guide
+clickable
+heading  level 2
+Table of Contents
+list with 6 items
+20200  window
+edit  multi line
+Is it ok if I document stuff at the same confluence page. It might look clutter but its convenient.
+.
+ 
+t
+o
+ 
+h
+a
+v
+e
+ 
+i
+t
+ 
+i
+n
+ 
+o
+n
+e
+ 
+p
+l
+a
+c
+e
+place
+one 
+it 
+to 
+but 
+look 
+It 
+page
+same 
+at 
+document 
+if 
+I 
+document 
+stuff 
+at 
+the 
+same 
+O
+O selected
+
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+		return [repr( (i.width, i.height) ) for i in displays]
+
+	def savePositionInformation(self):
+
+		position = self.GetPosition()
+
+NVDA 2018.2.1 Developer Guide - Google Chrome
+4.5. Localizing Add-ons
+NVDA 2018.2.1 Developer Guide - Google Chrome
+4.5.1. Locale-specific Manifest Files
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide  document
+heading  level 1
+NVDA 2018.2.1 Developer Guide
+NVDA 2018.2.1 Developer Guide - Google Chrome
+Search "appendText" (23 hits in 10 files)
+
+		config.conf["speechViewer"]["x"] = position.x
+
+	def savePositionInformation(self):
+
+		return [repr( (i.width, i.height) ) for i in displays]
+
+		attachedSizes = self.getAttachedDisplaySizesAsStringArray()
+
+Tab
+main landmark 
+Fork this project and edit the file
+button
+Domains - Yann LORBER (contractor) - Amadeus Confluence Platform  Domains - Yann LORBER (contractor) - Amadeus Confluence Platform
+https://rndwww.nce.amadeus.net/confluence/display/~ylorber/Domains  row 1  column 1
+Environment Setup - DX - DGA Americas - Amadeus Confluence Platform  Environment Setup - DX - DGA Americas - Amadeus Confluence Platform
+https://rndwww.nce.amadeus.net/confluence/display/RNDSEEDDSNOA/Environment+Setup+-+DX
+Domains - Yann LORBER (contractor) - Amadeus Confluence Platform  Domains - Yann LORBER (contractor) - Amadeus Confluence Platform
+https://rndwww.nce.amadeus.net/confluence/display/~ylorber/Domains
+AX Internship - UXD team projects - Amadeus Confluence Platform  AX Internship - UXD team projects - Amadeus Confluence Platform
+https://rndwww.nce.amadeus.net/confluence/display/UXDTP/AX+Internship
+document
+blank
+AX Internship - UXD team projects - Amadeus Confluence Platform
+clickable
+list with 5 items
+NVDA 2018.2.1 Developer Guide  document
+heading  level 1
+NVDA 2018.2.1 Developer Guide
+AX Internship - UXD team projects - Amadeus Confluence Platform  document
+clickable
+list with 5 items
+Search "appendText" (23 hits in 10 files)
+
+Search "appendText" (23 hits in 10 files)
+
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome  row 1  column 1
+AX Internship - UXD team projects - Amadeus Confluence Platform  document
+NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA 2018.2.1 Developer Guide - Google Chrome
+clickable
+list with 1 items
+list with 11 items
+list with 6 items
+AX Internship
+visited  link
+menu  subMenu  row 1  column 1
+Open link in new tab  t  row 1  column 1
+Caption
+Search "appendText" (23 hits in 10 files)
+
+AX Internship - UXD team projects - Amadeus Confluence Platform  document
+visited  link
+AX Internship
+		config.conf["speechViewer"]["x"] = position.x
+
+		position = self.GetPosition()
+
+		config.conf["speechViewer"]["x"] = position.x
+
+		position = self.GetPosition()
+
+Items View
+	def getAttachedDisplaySizesAsStringArray(self):
+
+		return [repr( (i.width, i.height) ) for i in displays]
+
+Administrator: Command Prompt
+Items View
+Administrator: Command Prompt
+	def getAttachedDisplaySizesAsStringArray(self):
+
+		displays = ( wx.Display(i).GetGeometry().GetSize() for i in xrange(wx.Display.GetCount()) )
+
+Items View
+list with 5 items
+collapsed  subMenu  link
+expanded
+		return [repr( (i.width, i.height) ) for i in displays]
+
+	def savePositionInformation(self):
+
+Caption
+		position = self.GetPosition()
+
+Administrator: Command Prompt
+Caption
+log  window
+Items View  list
+sampleLogger.txt  not selected  1 of 1
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome  row 1  column 2
+NVDA Speech Viewer  row 1  column 3
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome  row 1  column 1
+AX Internship - UXD team projects - Amadeus Confluence Platform  document
+expanded  subMenu  link
+expanded
+Search "appendText" (23 hits in 10 files)
+
+Search "appendText" (23 hits in 10 files)
+
+	Line 566: 		self.appendText = appendText
+
+	Line 566: 		self.appendText = appendText
+
+	Line 562: 		@type appendText: str
+
+	Line 561: 		@param appendText: Text which should always be appended to the NVDAObject text, useful if this region will always precede other regions.
+
+	Line 557: 	def __init__(self, obj, appendText=""):
+
+Administrator: Command Prompt
+		displays = ( wx.Display(i).GetGeometry().GetSize() for i in xrange(wx.Display.GetCount()) )
+
+Search "appendText" (23 hits in 10 files)
+
+Items View
+expanded
+Administrator: Command Prompt
+Caption
+Search "appendText" (23 hits in 10 files)
+
+  C:\WebAccessibility\nvda\source\braille.py (8 hits)
+
+Search "appendText" (23 hits in 10 files)
+
+  C:\WebAccessibility\nvda\source\braille.py (8 hits)
+
+Search "appendText" (23 hits in 10 files)
+
+Edit
+visited  link  Edit (e)  Alt+e
+		position = self.GetPosition()
+
+Search "appendText" (23 hits in 10 files)
+
+{#aria.rich_text_area}  frame
+document  editable
+section  multi line  editable
+Running applications
+N
+V
+D
+A
+ 
+s
+u
+p
+p
+o
+r
+t
+ 
+f
+o
+r
+ 
+a
+u
+t
+o
+m
+a
+t
+i
+o
+n
+automation
+for 
+support  selected
+T
+Tfor aut unselected
+w
+e
+a
+k
+ 
+blank
+N
+V
+D
+A
+ 
+a
+s
+ 
+s
+u
+c
+h
+ 
+d
+o
+e
+ 
+s
+n
+o
+o
+n
+s
+e
+o
+s
+s
+a
+h
+a
+s
+ 
+t
+h
+e
+ 
+NVDA 2018.2.1 Developer Guide - Google Chrome
+Notification Chevron
+Running applications
+Notification Chevron
+Taskbar
+Notification Overflow
+Fully charged (100%)
+Notification Chevron
+NVDA
+NVDA  menu
+Exit  x
+Exit
+Install pending update  u
+Install pending update
+Donate  d
+Save configuration
+Reset configuration to factory defaults  r
+Revert to saved configuration
+Configuration profiles...  c
+Configuration profiles...
+separator  unavailable
+Help
+Help  subMenu  h
+Tools
+Tools  subMenu  t
+Tools  menu
+Help  subMenu  h
+Configuration profiles...
+Reset configuration to factory defaults  r
+Save configuration
+separator  unavailable
+Donate
+Donate  d
+Install pending update  u
+Install pending update
+Exit  x
+Exit
+Exit  x
+Exit NVDA  dialog
+What would you like to do?  combo box  Exit  collapsed  Alt+d
+NVDA 2018.2.1 Developer Guide - Google Chrome
+works:NVDA 2018.2.1 Developer Guide - Google Chrome
+NVDA Speech Viewer
+NVDA 2018.2.1 Developer Guide - Google Chrome
+Show Speech Viewer on Startup
+works:Show Speech Viewer on Startup
+NVDA 2018.2.1 Developer Guide - Google Chrome
+Exit NVDA
+OK
+OK  button  pressed
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome  row 1  column 1
+AX Internship - UXD team projects - Amadeus Confluence Platform  document
+{#aria.rich_text_area}  frame
+document  editable
+section  multi line  editable
+spelling error
+NVDA
+Running applications
+NVDA Speech Viewer  dialog
+Show Speech Viewer on Startup  check box  checked  Alt+s
+Eclipse SDK
+REG_Invoke_NVDA.java  tab control
+edit  multi line
+      while (!input.startsWith("e")) {
+
+Desktop
+Running applications
+Three ways to run Python programs from Java - Python - Google Chrome
+NVDA Speech Viewer  row 1  column 2
+NVDA Speech Viewer  row 1  column 2
+Desktop
+Desktop
+Dismiss Task Switching Window
+Three ways to run Python programs from Java - Python - Google Chrome
+Dismiss Task Switching Window
+Cisco Jabber
+Dismiss Task Switching Window
+Anthony FERREIRA
+20200  window
+Three ways to run Python programs from Java - Python - Google Chrome
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+Position Indicates the current vertical position, and can be dragged to change it directly
+works:Dismiss Task Switching Window
+works:Anthony FERREIRA
+works:Dismiss Task Switching Window
+works:Cisco Jabber
+works:Dismiss Task Switching Window
+works:Three ways to run Python programs from Java - Python - Google Chrome
+NVDA Speech Viewer
+Minimize Moves the window out of the way
+Maximize Makes the window full screen
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+Anthony FERREIRA
+Three ways to run Python programs from Java - Python - Google Chrome
+edit  multi line
+blank
+I
+ 
+f
+o
+u
+n
+d
+ 
+t
+h
+i
+s
+ 
+s
+i
+m
+p
+l
+e
+ 
+s
+c
+r
+i
+p
+t
+ 
+t
+o
+ 
+k
+i
+c
+k
+ 
+o
+f
+f
+ 
+ 
+f
+f
+o
+ 
+ 
+o
+f
+f
+f
+f
+o
+ 
+-
+o
+f
+f
+ 
+p
+y
+t
+h
+o
+n
+ 
+s
+c
+r
+i
+p
+t
+s
+ 
+i
+n
+ 
+w
+i
+n
+d
+i
+w
+w
+i
+o
+w
+s
+ 
+m
+a
+c
+h
+i
+n
+e
+s
+.
+Desktop
+Three ways to run Python programs from Java - Python - Google Chrome
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+Page up Moves the vertical position up a couple of lines
+works:e
+works:n
+works:s
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+AX Internship - UXD team projects - Amadeus Confluence Platform - Google Chrome
+New Tab - Google Chrome  row 1  column 1
+Address and search bar  edit  has auto complete  Ctrl+L  row 1  column 1
+blank
+n
+v
+d
+a
+ 
+f
+o
+r
+ 
+New Tab - Google Chrome
+Desktop
+New Tab - Google Chrome
+Desktop
+New Tab - Google Chrome
+works:o
+works:r
+works: 
+works:Desktop
+works:New Tab - Google Chrome
+works:works:r
+works:works:Desktop
+works:works:works:r
+New Tab - Google Chrome
+Start
+New Tab - Google Chrome
+AX Internship - UXD team projects - Amadeus Confluence Platform
+New Tab - Google Chrome
+New Tab - Google Chrome
+Three ways to run Python programs from Java - Python - Google Chrome
+Start
+Desktop
+Running applications
+Three ways to run Python programs from Java - Python - Google Chrome
+Eclipse SDK
+Console  tab control
+edit  multi line
+blank
+e
+REG_Invoke_NVDA.java  tab control
+edit  multi line
+      while (!input.startsWith("e")) {
+
+Console  tab control
+edit  multi line
+blank
+e
+NVDA Speech Viewer  dialog
+Show Speech Viewer on Startup  check box  checked  Alt+s
+C:\Windows\System32\cmd.exe
+EPSON PJ: 100%
+C:\Windows\System32\cmd.exe
+Touch keyboard
+EPSON PJ: 100%
+iis.amadeus.net
+Internet access
+C:\Windows\System32\cmd.exe
+NVDA
+C:\Windows\System32\cmd.exe
+NVDA
+NVDA  menu
+Exit  x
+separator  unavailable
+Install pending update
+Install pending update  u
+separator  unavailable
+Exit  x
+Exit
+Exit  x
+Exit
+Exit NVDA  dialog
+What would you like to do?  combo box  Exit  collapsed  Alt+d
+C:\Windows\System32\cmd.exe
+Exit NVDA
+OK
+C:\Windows\System32\cmd.exe  terminal
+C:\WebAccessibility\nvda\source>                                                                                        
+NVDA Speech Viewer  dialog
+Show Speech Viewer on Startup  check box  checked  Alt+s
+Running applications
+Notification Chevron
+02 min to full charge
+iis.amadeus.net
+Internet access
+02 min to full charge
+Notification Chevron
+Taskbar
+Notification Overflow
+Overflow Notification Area
+NVDA
+NVDA  menu
+Exit
+Exit  x
+Exit NVDA  dialog
+What would you like to do?  combo box  Exit  collapsed  Alt+d
+Exit NVDA
+Cancel
+Exit NVDA
+OK
+OK  button  pressed
+Eclipse SDK
+tab control
+REG_02_A11y_Test.java  tab control
+edit  multi line
+    FPOW_test fpowTest;
+
