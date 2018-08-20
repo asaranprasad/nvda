@@ -7,6 +7,7 @@
 import wx
 import gui
 import config
+import subprocess
 from logHandler import log
 
 class SpeechViewerFrame(wx.Dialog):
@@ -99,9 +100,15 @@ def appendText(text):
 	_guiFrame.textCtrl.AppendText(text + "\n")
 
 	#Write speech viewer output to a log file - Append mode
-	f = open('C:/WebAccessibility/nvda/log/sampleLogger.txt','a')
+	f = open('C:/WebAccessibility/nvda-dev/log/sampleLogger.txt','a')
 	f.write(text + '\n')
 	f.close()
+
+	#InterProcessCommunication - Write each line of speech viewer output to Standard Input Stream
+	#p = subprocess.Popen(["java", "A11yUtils"], stdin=subprocess.PIPE)
+	#p.stdin.write(text)
+	#p.stdin.write("x\r\n") #Close communication
+		
 
 def _cleanup():
 	global isActive

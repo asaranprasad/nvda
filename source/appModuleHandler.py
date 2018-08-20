@@ -170,15 +170,25 @@ def fetchAppModule(processID,appName):
 	# Python 2.x can't properly handle unicode module names, so convert them.
 	modName = appName.encode("mbcs")
 
-	if doesAppModuleExist(modName):
+	# Hardcoding NVDA to work specifically for Chrome and Firefox
+	if appName == u'firefox': # or appName == u'chrome':
+		if doesAppModuleExist(modName):
+			try:
+				return __import__("appModules.%s" % modName, globals(), locals(), ("appModules",)).AppModule(processID, appName)
+			except:
+				log.error("error in appModule %r"%modName, exc_info=True)
+				# We can't present a message which isn't unicode, so use appName, not modName.
+				# Translators: This is presented when errors are found in an appModule (example output: error in appModule explorer).
+				ui.message(_("Error in appModule %s")%appName)
+	else:
+		# Invoke sleep mode for all other applications other than chrome and firefox
+		appName = u'donotdisturb'
+		modName = appName.encode("mbcs")
 		try:
 			return __import__("appModules.%s" % modName, globals(), locals(), ("appModules",)).AppModule(processID, appName)
 		except:
 			log.error("error in appModule %r"%modName, exc_info=True)
-			# We can't present a message which isn't unicode, so use appName, not modName.
-			# Translators: This is presented when errors are found in an appModule (example output: error in appModule explorer).
 			ui.message(_("Error in appModule %s")%appName)
-
 	# Use the base AppModule.
 	return AppModule(processID, appName)
 
