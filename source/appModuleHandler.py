@@ -189,6 +189,7 @@ def fetchAppModule(processID,appName):
 		except:
 			log.error("error in appModule %r"%modName, exc_info=True)
 			ui.message(_("Error in appModule %s")%appName)
+
 	# Use the base AppModule.
 	return AppModule(processID, appName)
 
