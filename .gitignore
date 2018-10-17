@@ -1,5 +1,6 @@
 *.mo
 source/comInterfaces/*.py
+log/*
 *.log
 source/userConfig
 build
