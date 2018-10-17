@@ -100,7 +100,7 @@ def appendText(text):
 	_guiFrame.textCtrl.AppendText(text + "\n")
 
 	#Write speech viewer output to a log file - Append mode
-	f = open('C:/WebAccessibility/nvda-dev/log/sampleLogger.txt','a')
+	f = open('../log/sampleLogger.txt','a')
 	f.write(text + '\n')
 	f.close()
 
